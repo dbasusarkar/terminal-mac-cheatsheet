@@ -37,6 +37,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Option + ←  | Move cursor one word backward |
 | Esc + T  | Swap the last two words before the cursor |
 | Tab  | Auto-complete files and folder names |
+| Cmd + Shift + . | Toggle show/hide hidden files |
 
 ## CORE COMMANDS
 
